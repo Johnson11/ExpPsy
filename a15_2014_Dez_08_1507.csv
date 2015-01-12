@@ -1,0 +1,9 @@
+exp_name,participant,age,gender,date,TrialNumber,im,ori,ran,order,rt,acc
+Change Detection,a15,20,female,2014_Dez_08_1507,1,7,0,1.0,0.0,5.83181,1.0
+Change Detection,a15,20,female,2014_Dez_08_1507,2,2,1,1.0,1.0,3.05592,1.0
+Change Detection,a15,20,female,2014_Dez_08_1507,3,3,0,1.0,2.0,11.332,1.0
+Change Detection,a15,20,female,2014_Dez_08_1507,4,4,1,1.0,3.0,--,--
+Change Detection,a15,20,female,2014_Dez_08_1507,5,1,1,1.0,4.0,2.1264,1.0
+Change Detection,a15,20,female,2014_Dez_08_1507,6,5,1,1.0,5.0,26.4637,1.0
+Change Detection,a15,20,female,2014_Dez_08_1507,7,6,0,1.0,6.0,12.3999,1.0
+Change Detection,a15,20,female,2014_Dez_08_1507,8,8,0,1.0,7.0,2.85975,1.0

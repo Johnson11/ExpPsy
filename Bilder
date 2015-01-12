@@ -1,0 +1,43 @@
+1 - Farm
+2 - Videospiel
+3 - Palestinerin
+4 - Medikamente, keine Veränderung!
+5 - Hase
+6 - Boot
+7 - Gallerie
+8 - Brettspiel
+
+
+Berechnung des Verzerrungsfaktors
+Grad der Abweichung vom Mittelpunkt in Prozent
+- Mitte = 0%
+- Linker Rand = 100%
+- Rechter Rand = 100%
+
+Größe des verändernden Merkmales
+- 50% -> Hälfte des Bildes usw.
+- 10% -> nimmt 90% des Bildes ein...
+Also 1 - X% der Größe
+
+Verzerrungsfaktor = Abweichung_Mittelpunkt + Größe
+
+Nr   Bild    Abweichung Mitte    Größe   %Größe	Größenwert(1-%)	Verzerrungswert
+1 - Farm: 	75%		14cm²	100	0		75
+2 - Vid:	90%		6cm²	43	57		147
+3 - Palest: 	50%		0,25cm²	1.8	98,2		148,2
+4 - Test 	-		-	-	-		-
+5- Hase		80%		0,25cm²	1.8	98,2		178,2
+6- Boot		0%		2cm²	14	86		86
+7 - Galerie	30%		4cm²	29	71		101
+8 Brettsp	20%		3cm²	21	79		99
+
+
+Farm	75
+Boot	86
+Brettsp	99
+Galerie	101
+Vidsp	147
+Palest	148.2
+Hase	178.2
+
+
